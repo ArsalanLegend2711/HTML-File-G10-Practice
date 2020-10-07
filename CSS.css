@@ -1,0 +1,21 @@
+div.fixed {
+		position: fixed;
+		top: 200;
+		right: 64;
+		width: 220px;
+		border: 3px solid #0298db;
+}
+h1{
+		color:#33C8FA;
+		font-family:Vivaldi;
+		font-size:50
+}
+h2{
+		color:#33C8FA;
+		font-family:Vivaldi;
+		font-size:25;
+		font-weight:3 px
+}
+table{
+		border: 2px solid #338BE0;
+}
